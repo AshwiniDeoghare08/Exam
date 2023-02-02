@@ -13,7 +13,7 @@ class BinarySearch{
       mid = (first + last)/2;  
    }  
    if ( first > last ){  
-      System.out.println("Element is not found!");  
+      System.out.println("Element is not found here  ...!");  
    }  
  }  
  public static void main(String args[]){  
